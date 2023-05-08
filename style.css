@@ -1,0 +1,140 @@
+body{
+  background-color:#070A52;
+}
+.intro{
+  text-align: center;
+  font-family:'Rampart One', cursive;
+  font-size: 4em;
+  background-image:url("https://images.wallpapersden.com/image/download/watching-artistic-sunset-clouds_bGtnbGiUmZqaraWkpJRmbmdlrWZlbWU.jpg");
+  padding-top: 50px;
+  padding-bottom: 90px;
+}
+.Aboutme{
+  text-align: center;
+  font-size: 2em;
+  font-style: oblique;
+  padding: 40px;
+  font-family: 'Pridi', serif;
+  color: White;
+}
+.me{
+  text-align: center;
+  font-family: 'Monoton', cursive;
+  font-size: 2em;
+  color: #F9D949;
+}
+.circle-img {
+  border-radius: 80%;
+  border: 4px solid #fff;
+  width: 120px;
+  height: 120px;
+}
+
+.column {
+  box-sizing: border-box;
+  float: left;
+  width: 50%;
+  padding-left: 20px;
+  text-align: center;
+}
+
+
+.row {
+  margin: 0 -25px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 80px;
+  padding-right: 50px;
+}
+.container{
+  text-align: center;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  padding-top:50px;
+  text-align: center;
+  background-color: #f1f1f1;}
+.ambition{
+  text-align: center;
+  padding-top: 30px;
+  font-size: 3em;
+  font-family: 'Monoton', cursive;
+  background-color: yellow;
+}
+.good{
+  text-align: center;
+}
+.topic{
+  text-align: center;
+  padding-top: 100px;
+  font-size: 2em;
+  color: red;
+  font-family: 'Libre Baskerville', serif;
+  margin-bottom: 50px;
+
+
+}
+.skills{
+  text-align:center;
+  font-size: 2em;
+  color: black;
+  padding-top: 20px;
+  font-family: 'Monoton', cursive;
+}
+.sky{
+  font-size: 3em;
+  background-color: yellow;
+
+
+}
+.skill1{
+ text-align: right;
+ position: relative;
+ right: 300px;
+ top: 80px;
+ font-size: 1em;
+ color: white;
+
+}
+.skill2{
+  text-align: right;
+font-size: em;
+position: relative;
+right: 800px;
+bottom: 100px;
+color: white;
+
+}
+.img1{
+  text-align: right;
+  position: relative;
+  right: 50px;
+}
+.img3{
+  text-align: right;
+  position: relative;
+  right: 900px;
+  bottom: 50px;
+}
+.pre-ending{
+  text-align: center;
+  font-family: 'Titan One', cursive;
+  background-color: #03C988;
+}
+
+.ending{
+  background-color:#00FFCA;
+  text-align: center;
+  font-family: monospace;
+  font-size: 2em;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+.done{
+  background-color: #FF6E31;
+  font-family: 'Dancing Script', cursive;
+  font-size:2em;
+  text-align: center;
+  padding: 20px;
+}
